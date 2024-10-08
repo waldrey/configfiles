@@ -13,21 +13,9 @@
     "editor.semanticHighlighting.enabled": false,
     "explorer.compactFolders": false,
     "breadcrumbs.enabled": false,
-    /*"apc.header": {
-        "height": 36
-    },
-    "apc.listRow": {
-        "height": 24
-    },
-    "apc.stylesheet": {
-        ".title-label > h2": "display: none",
-        ".pane-body": "padding: 8px",
-        ".pane-header": "padding: 0"
-    },*/
     "apc.font.family": "Inter",
     "terminal.integrated.fontSize": 14,
     "explorer.confirmDelete": false,
-    // "terminal.integrated.fontFamily": "Jetbrains Mono Nerd Font",
 
     // Languages
     // Go
